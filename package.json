@@ -1,0 +1,14 @@
+{
+  "name": "react-source-analysis",
+  "version": "1.0.0",
+  "description": "React source analysis.",
+  "homepage": "https://github.com/afeiship/react-source-analysis",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
